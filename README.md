@@ -1,7 +1,7 @@
 # Keras-CNN-Cifar10
-__Keras CNN Cifar 10 Example
+__Keras CNN Example
 
-Keras ile CNN Cifar 10 Uygulaması
+Keras ile CNN Uygulamaları
 
 "_Keras_CNN_CIFAR10 GC.ipynb_" for Google Colab
 
