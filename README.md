@@ -1,4 +1,4 @@
-# Keras-CNN-Cifar10
+# Keras-CNN
 __Keras CNN Example
 
 Keras ile CNN Uygulamaları
